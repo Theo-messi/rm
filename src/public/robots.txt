@@ -1,3 +1,0 @@
-Sitemap: https://theovan.wiki/sitemap.xml
-
-User-agent: *
